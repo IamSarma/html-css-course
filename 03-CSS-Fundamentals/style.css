@@ -78,3 +78,15 @@ aside {
   border-top: 5px solid #10988d;
   border-bottom: 5px solid #10988d;
 }
+
+li:first-child {
+  font-weight: bold;
+}
+
+li:last-child {
+  font-style: italic;
+}
+
+li:nth-child(even) {
+  /* color: deeppink; */
+}
