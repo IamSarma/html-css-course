@@ -1,9 +1,8 @@
-h1,
-h2,
-h3,
-h4,
-p,
-li {
+/* * {
+  color: #444;
+} */
+
+body {
   font-family: sans-serif;
   color: #444;
 }
@@ -113,7 +112,7 @@ a:active {
 }
 
 /* Resolving conflicts */
-#copyright {
+/* #copyright {
   color: red;
 }
 
@@ -127,4 +126,4 @@ a:active {
 
 footer p {
   color: green;
-}
+} */
