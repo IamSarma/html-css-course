@@ -84,6 +84,7 @@ li {
   background-color: #f7f7f7;
   padding: 20px 40px;
   margin-bottom: 60px;
+  height: 80px;
 }
 
 nav {
@@ -103,6 +104,7 @@ aside {
   border-top: 5px solid #10988d;
   border-bottom: 5px solid #10988d;
   padding: 50px 0;
+  width: 500px;
 }
 
 li:first-child {
@@ -137,6 +139,11 @@ a:hover {
 a:active {
   background-color: black;
   font-style: italic;
+}
+
+.post-image {
+  width: 100%;
+  height: auto;
 }
 
 /* Resolving conflicts */
